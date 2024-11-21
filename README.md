@@ -1,8 +1,3 @@
-<div style="width:800px; height:200px; overflow:hidden;">
-  <img src="https://wallpapercave.com/wp/wp8591267.jpg" alt="MasterHead" style="width:1000px; margin-top:-100px;">
-</div>
-
-
 
 <h1 align="center">Hi 👋, I'm Mustafa Şahin</h1>
 <h3 align="center">An aspiring backend developer from Turkey, passionate about C#, .NET, MSSQL,SAP-ABAP, and business process optimization.</h3>
